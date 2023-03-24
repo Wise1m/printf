@@ -1,13 +1,17 @@
-<h1>Description<\h1>
+<h1>Description</h1>
   <br/>
 This team project is part of the first year curriculum of ALX. _printf replicates the C standard library printf() function.
-How to use git in a team setting
-Applying variadic functions to a big project
-The complexities of printf
-Managing a lot of files and finding a good workflow
+- How to use git in a team setting
+- Applying variadic functions to a big project
+- The complexities of printf
+- Managing a lot of files and finding a good workflow
 
-Prototype
+## Prototype
+
+
+```
 int _printf(const char *format, ...);
+```
 
 Usage
 Prints a string to the standard output, according to a given format
