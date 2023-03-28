@@ -9,6 +9,7 @@
  * @width: get width
  * @precision: Precision specification
  * @size: Size specifier
+ * pointer to a char
  * Return: Number of chars printed.
  */
 int print_unsigned(va_list types, char buffer[],
