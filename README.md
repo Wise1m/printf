@@ -110,4 +110,4 @@ These are all the tasks of this project, the ones that are completed link to the
 
 ### Authors
 * **PRAISE ARIBISALA** - [aribisalapraise12@gmail.com@gmail.com](https://github.com/Wise1m)
-* **ESTHER EJIFOR** - [@gmail.com](https://github.com/)
+* **ESTHER EJIMOFOR** - [ejimofor81@gmail.com](https://github.com/Empirestar247)
