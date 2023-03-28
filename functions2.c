@@ -9,6 +9,7 @@
  * @width: get width
  * @precision: Precision specification
  * @size: Size specifier
+ * @perform: specific task
  * Return: Number of chars printed.
  */
 int print_pointer(va_list types, char buffer[],
